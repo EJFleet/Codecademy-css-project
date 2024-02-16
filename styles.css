@@ -1,0 +1,48 @@
+body {
+    background-color: wheat;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+    
+h2 {
+    color: indigo;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+table {
+    border: black;
+    border-collapse: collapse;
+    background-color: lightpink;
+    margin: 50px auto;
+
+}
+
+th {
+    text-align: center;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.property {
+    font-family: 'Space Mono', Courier, monospace;
+    background-color: whitesmoke;
+    width: 200px;
+}
+
+.col1 {
+    white-space: nowrap;
+    min-width: 200px;
+}
